@@ -18,6 +18,7 @@ Sou fascinada pela capacidade de transformar uma tela totalmente em branco em um
 <div inline>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -27,7 +28,6 @@ Sou fascinada pela capacidade de transformar uma tela totalmente em branco em um
 
 ## 🛠️ Próximos Passos (O que vou aprender em breve)
 
-* 🟡 JavaScript (Próxima parada na minha trilha de estudos)
 * 🟡 Construção de aplicações completas e lógica de programação
 
 ---
